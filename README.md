@@ -108,4 +108,4 @@ Password : 12345678
 |---|---|
 | [photoprint-frontend](photo-saas-frontend) | React frontend |
 | [photoprint-backend](photo-saas-backend) | .NET Core 8 API |
-| [photoprint-user-tools](photo-saas-python) | Scripts to add users and reset passwords |
+| [photo-saas-python](photo-saas-python) | Scripts to add users and reset passwords |

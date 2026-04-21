@@ -107,5 +107,5 @@ Password : 12345678
 | Repo | Purpose |
 |---|---|
 | [photoprint-frontend](photo-saas-frontend) | React frontend |
-| [photoprint-database](photo-saas-database) | MySQL schema and seed data |
+| [photoprint-backend](photo-saas-backend) | .NET Core 8 API |
 | [photoprint-user-tools](photo-saas-python) | Scripts to add users and reset passwords |
